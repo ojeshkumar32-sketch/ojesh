@@ -1,6 +1,6 @@
-# ojesh
+# Human ai
 this is free AI agent promt
-Upgrade my existing HumanAI project.
+ my HumanAI project.
 
 Core idea:
 HumanAI is a simple, highly accessible AI agent that communicates naturally with humans and helps solve problems.
@@ -83,5 +83,4 @@ Before making major changes, inspect the existing project and explain:
 - What you will change
 - Any dependencies you need
 
-Do not delete the existing project unnecessarily.
 Build a working MVP first, then improve it.
